@@ -1,6 +1,7 @@
 "A Replication Study of Compositional Generalization Works on Semantic Parsing" - Kaiser Sun, Adina Williams, Dieuwke Hupkes
 
 [Paper Link](https://github.com/ReScience/MLRC/blob/main/2022/44/article.pdf)
+
 [Code Link in MetaResearch](https://github.com/facebookresearch/CompGenRep_MLRC2022)
 
 Citation
